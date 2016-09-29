@@ -1,0 +1,6 @@
+U:\IG3_16-17\BD_Web\Labo1\TestLabo1\TestLabo1\bin\Debug\TestLabo1.exe.config
+U:\IG3_16-17\BD_Web\Labo1\TestLabo1\TestLabo1\bin\Debug\TestLabo1.exe
+U:\IG3_16-17\BD_Web\Labo1\TestLabo1\TestLabo1\bin\Debug\TestLabo1.pdb
+U:\IG3_16-17\BD_Web\Labo1\TestLabo1\TestLabo1\obj\Debug\TestLabo1.csprojResolveAssemblyReference.cache
+U:\IG3_16-17\BD_Web\Labo1\TestLabo1\TestLabo1\obj\Debug\TestLabo1.exe
+U:\IG3_16-17\BD_Web\Labo1\TestLabo1\TestLabo1\obj\Debug\TestLabo1.pdb

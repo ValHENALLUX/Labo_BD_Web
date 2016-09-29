@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[StudentCourse]
+(
+	[StudentId] BIGINT NOT NULL FOREIGN KEY REFERENCES Student(Id),
+	[CourseId] BIGINT NOT NULL FOREIGN KEY REFERENCES Course(Id)
+
+)
